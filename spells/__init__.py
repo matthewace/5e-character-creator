@@ -1,0 +1,43 @@
+from .spell import (
+    AcidSplash, BladeWard, ChillTouch, DancingLights, Druidcraft,
+    EldritchBlast, Firebolt, Friends, Guidance, Light, MageHand, Mending,
+    Message, MinorIllusion, PoisonSpray, Prestidigitation, ProduceFlame,
+    RayOfFrost, Resistance, SacredFlame, Shillelagh, ShockingGrasp,
+    SpareTheDying, Thaumaturgy, ThornWhip, TrueStrike, ViciousMockery, Alarm,
+    AnimalFriendship, ArmorOfAgathys, ArmsOfHadar, Bane, Bless, BurningHands,
+    CharmPerson, ChromaticOrb, ColorSpray, Command, CompelledDuel,
+    ComprehendLanguages, CreateOrDestroyWater, CureWounds, DetectEvilAndGood,
+    DetectMagic, DetectPoisonAndDisease, DisguiseSelf, DissonantWhispers,
+    DivineFavor, EnsnaringStrike, Entangle, ExpeditiousRetreat, FaerieFire,
+    FalseLife, FeatherFall, FindFamiliar, FogCloud, Goodberry, Grease,
+    GuidingBolt, HailOfThorns, HealingWord, HellishRebuke, Heroism, Hex,
+    HuntersMark, Identify, IllusoryScript, InflictWounds, Jump, Longstrider,
+    MageArmor, MagicMissile, ProtectionFromEvilAndGood, PurifyFoodAndDrink,
+    RayOfSickness, Sanctuary, SearingSmite, Shield, ShieldOfFaith, SilentImage,
+    Sleep, SpeakWithAnimals, TashasHideousLaughter, TensersFloatingDisk,
+    ThunderousSmite, Thunderwave, UnseenServant, WitchBolt, WrathfulSmite, Aid
+)
+
+
+__all__ = [
+    'AcidSplash', 'BladeWard', 'ChillTouch', 'DancingLights', 'Druidcraft',
+    'EldritchBlast', 'Firebolt', 'Friends', 'Guidance', 'Light', 'MageHand',
+    'Mending', 'Message', 'MinorIllusion', 'PoisonSpray', 'Prestidigitation',
+    'ProduceFlame', 'RayOfFrost', 'Resistance', 'SacredFlame', 'Shillelagh',
+    'ShockingGrasp', 'SpareTheDying', 'Thaumaturgy', 'ThornWhip', 'TrueStrike',
+    'ViciousMockery', 'Alarm', 'AnimalFriendship', 'ArmorOfAgathys',
+    'ArmsOfHadar', 'Bane', 'Bless', 'BurningHands', 'CharmPerson',
+    'ChromaticOrb', 'ColorSpray', 'Command', 'CompelledDuel',
+    'ComprehendLanguages', 'CreateOrDestroyWater', 'CureWounds',
+    'DetectEvilAndGood', 'DetectMagic', 'DetectPoisonAndDisease',
+    'DisguiseSelf', 'DissonantWhispers', 'DivineFavor', 'EnsnaringStrike',
+    'Entangle', 'ExpeditiousRetreat', 'FaerieFire', 'FalseLife', 'FeatherFall',
+    'FindFamiliar', 'FogCloud', 'Goodberry', 'Grease', 'GuidingBolt',
+    'HailOfThorns', 'HealingWord', 'HellishRebuke', 'Heroism', 'Hex',
+    'HuntersMark', 'Identify', 'IllusoryScript', 'InflictWounds', 'Jump',
+    'Longstrider', 'MageArmor', 'MagicMissile', 'ProtectionFromEvilAndGood',
+    'PurifyFoodAndDrink', 'RayOfSickness', 'Sanctuary', 'SearingSmite',
+    'Shield', 'ShieldOfFaith', 'SilentImage', 'Sleep', 'SpeakWithAnimals',
+    'TashasHideousLaughter', 'TensersFloatingDisk', 'ThunderousSmite',
+    'Thunderwave', 'UnseenServant', 'WitchBolt', 'WrathfulSmite', 'Aid',
+]

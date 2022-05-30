@@ -1,0 +1,1 @@
+from .characterclass import CharacterClass
